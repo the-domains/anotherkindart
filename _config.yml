@@ -1,0 +1,14 @@
+layout_spectrum: 0.9359872560016811
+typography_spectrum: 0.7520807639230043
+color:
+  brandStrength: 0.17326533887535334
+  lightness: 0.14872386120259762
+  saturation: 0.32788235088810325
+  rhythmicContrast: 0.7328044306486845
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: AnotherKindArt
