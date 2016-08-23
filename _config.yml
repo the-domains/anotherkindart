@@ -11,9 +11,13 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.9359872560016811
+author:
+  email: spiros@anotherkindart.gr
+  url: 'http://www.anotherkindart.gr/'
+  name: Spiros Doukeris
 name: AnotherKindArt
 navigation:
   - name: ',k'
     url: 'http://www.anotherkindart.gr/'
     type: external
-title: AnotherKindArt
+title: Ειδικές Κατασκευές - Θεατρικά Σκηνικά
