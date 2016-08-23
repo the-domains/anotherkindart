@@ -16,10 +16,6 @@ author:
   url: 'http://www.anotherkindart.gr/'
   name: Spiros Doukeris
 name: AnotherKindArt
-navigation:
-  - name: About
-    id: c5480780-951d-4bd9-a3c3-61558432936b
-    type: content
 collections:
   - index:
       path: /
