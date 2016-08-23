@@ -1,17 +1,15 @@
 ---
-datePublished: '2016-08-23T21:40:12.957Z'
+datePublished: '2016-08-23T21:44:51.662Z'
 sourcePath: >-
   _posts/2016-08-23-analambanoyme-eidikes-kataskeyes-apo-pshfidwta-mexri-metalli.md
 author: []
 via: {}
-dateModified: '2016-08-23T21:40:01.154Z'
+dateModified: '2016-08-23T21:44:51.097Z'
 title: ''
 publisher: {}
 description: Κατασκευή Σκηνικών θεάτρου & Aνακαινίσεις Επαγγελματικών Χώρων
-starred: false
-inFeed: true
 hasPage: true
-inNav: false
+starred: false
 url: analambanoyme-eidikes-kataskeyes-apo-pshfidwta-mexri-metalli/index.html
 _context: 'http://schema.org'
 _type: Article
