@@ -1,8 +1,25 @@
+typography_spectrum: 0.7520807639230043
+color:
+  saturation: 0.3278823508881032
+  brandStrength: 1
+  lightness: 0.1487238612025976
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#C3B7AF'
+    - '#44403F'
+    - '#B0651F'
+  rhythmicContrast: 0.7328044306486845
+layout_spectrum: 0.843985
 author:
   email: spiros@anotherkindart.gr
   url: 'http://www.anotherkindart.gr/'
   name: Spiros Doukeris
-title: Ειδικές Κατασκευές - Θεατρικά Σκηνικά
+name: AnotherKindArt
+navigation:
+  - name: About
+    id: c5480780-951d-4bd9-a3c3-61558432936b
+    type: content
 collections:
   - index:
       path: /
@@ -15,17 +32,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.3278823508881032
-  brandStrength: 1
-  lightness: 0.1487238612025976
-  brandColors:
-    - '#FFFFFF'
-    - '#000000'
-    - '#C3B7AF'
-    - '#44403F'
-    - '#B0651F'
-  rhythmicContrast: 0.7328044306486845
-typography_spectrum: 0.7520807639230043
-layout_spectrum: 0.843985
-name: AnotherKindArt
+title: Ειδικές Κατασκευές - Θεατρικά Σκηνικά
