@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-24T07:56:22.015Z'
+datePublished: '2016-08-24T07:56:50.131Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T07:55:00.739Z'
+dateModified: '2016-08-24T07:56:47.908Z'
 title: ''
 publisher: {}
 description: Aνακαινίσεις Επαγγελματικών Χώρων
-starred: false
 sourcePath: _posts/2016-08-24-anakainiseis-epaggelmatikwn-xwrwn.md
+starred: false
 url: anakainiseis-epaggelmatikwn-xwrwn/index.html
 _type: Blurb
 
