@@ -1,18 +1,20 @@
 ---
-datePublished: '2016-08-24T08:02:52.887Z'
+datePublished: '2016-08-24T08:06:56.707Z'
+sourcePath: >-
+  _posts/2016-08-24-kataskeyh-skhnikwn-8eatroy-and-anakainiseis-epaggelmatikwn-xwr.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T08:02:37.949Z'
+dateModified: '2016-08-24T08:06:55.675Z'
 title: ''
 publisher: {}
 description: Κατασκευή Σκηνικών Θεάτρου & Aνακαινίσεις Επαγγελματικών Χώρων
 starred: false
-sourcePath: >-
-  _posts/2016-08-24-kataskeyh-skhnikwn-8eatroy-and-anakainiseis-epaggelmatikwn-xwr.md
 _type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c327407-a438-46be-bb1a-2a6dc1ae3e0e.jpg)
+
 Κατασκευή Σκηνικών Θεάτρου & Aνακαινίσεις Επαγγελματικών Χώρων
 
 Αναλαμβάνουμε ειδικές κατασκευές, από ψηφιδωτά μέχρι μεταλλικά γλυπτά και ξύλινες υπερκατασκεύες. Επίσης δημιουργούμε πρότυπες και μοναδικές κατασκευές για τις ανάγκες θεατρικών παραστάσεων και τηλεοπτικών γυρισμάτων. Οι κατασκευές μας βρίσκουν εφαρμογές στη διακόσμηση, τη βιομηχανία δημιουργίας μοντέλων και για αναπαραστάσεις σε μουσεία και εκθεσιακούς χώρους στην Ελλάδα και το εξωτερικό.
