@@ -20,6 +20,9 @@ navigation:
   - name: Aνακαινίσεις Επαγγελματικών Χώρων
     id: dfebeb9f-7485-4ca9-bab5-67c9ee62d575
     type: content
+  - name: Κατασκευή Σκηνικών Θεάτρου
+    id: 7c34cd0b-d6b3-4c94-b277-eaaab7d6f5f8
+    type: content
 collections:
   - index:
       path: /
