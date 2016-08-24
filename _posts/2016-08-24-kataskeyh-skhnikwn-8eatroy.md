@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-24T07:58:45.044Z'
+datePublished: '2016-08-24T07:59:02.334Z'
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-24T07:58:38.382Z'
+dateModified: '2016-08-24T07:59:01.351Z'
 title: ''
 publisher: {}
 description: Κατασκευή Σκηνικών Θεάτρου
-starred: false
 sourcePath: _posts/2016-08-24-kataskeyh-skhnikwn-8eatroy.md
+starred: false
 url: kataskeyh-skhnikwn-8eatroy/index.html
 _type: Blurb
 
