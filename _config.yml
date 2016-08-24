@@ -16,6 +16,10 @@ author:
   url: 'http://www.anotherkindart.gr/'
   name: Spiros Doukeris
 name: AnotherKindArt
+navigation:
+  - name: Aνακαινίσεις Επαγγελματικών Χώρων
+    id: dfebeb9f-7485-4ca9-bab5-67c9ee62d575
+    type: content
 collections:
   - index:
       path: /
