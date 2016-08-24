@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-24T08:06:56.707Z'
+datePublished: '2016-08-24T08:15:45.068Z'
 sourcePath: >-
   _posts/2016-08-24-kataskeyh-skhnikwn-8eatroy-and-anakainiseis-epaggelmatikwn-xwr.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-24T08:06:55.675Z'
+dateModified: '2016-08-24T08:15:43.412Z'
 title: ''
 publisher: {}
 description: Κατασκευή Σκηνικών Θεάτρου & Aνακαινίσεις Επαγγελματικών Χώρων
@@ -13,7 +13,7 @@ starred: false
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c327407-a438-46be-bb1a-2a6dc1ae3e0e.jpg)
+![Κατασκ&epsi;&upsi;ή Σκηνικών Θ&epsi;άτρο&upsi; & Aνακαινίσ&epsi;ις Επαγγ&epsi;λματικών Χώρων](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c327407-a438-46be-bb1a-2a6dc1ae3e0e.jpg)
 
 Κατασκευή Σκηνικών Θεάτρου & Aνακαινίσεις Επαγγελματικών Χώρων
 
